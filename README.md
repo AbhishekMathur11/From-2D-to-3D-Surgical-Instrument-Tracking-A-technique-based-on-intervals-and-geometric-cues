@@ -9,5 +9,15 @@ Motion is estimated by analyzing geometric changes within the 2D intervals, and 
 
 This study concludes that the proposed technique, which relies on 2D segmented intervals and their geometric transformations for 3D tracking, offers a promising, computationally efficient, and directly applicable solution to enhance regular MIS practices by enabling 3D visualization of surgical instruments.
 
-For more information, datasets used in this research can be found in the MICCAI Endovis dataset(https://opencas.webarchiv.kit.edu/?q=node/30).
+For more information, datasets used in this research can be found in the MICCAI Endovis dataset:
+(https://opencas.webarchiv.kit.edu/?q=node/30)
+(https://zenodo.org/record/6362288)
+(http://opencas.dkfz.de/endovis/datasetspublications/)
+
+
+
+
+
+
+
 
