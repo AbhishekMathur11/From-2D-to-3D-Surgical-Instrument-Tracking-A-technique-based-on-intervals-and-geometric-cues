@@ -1,4 +1,15 @@
 from vpython import *
+import pandas as pd
+
+data = pd.read_csv(r"path_to_trajectory_data")
+X = data['x']
+Y = data['y']
+Z = data['z']
+
+Roll = data['roll']
+Pitch = data['pitch']
+Yaw = data['yaw']
+
 
 # Function to create a 3D grid
 def make_grid_3d(xmax, dx, c):
